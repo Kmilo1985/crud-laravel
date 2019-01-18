@@ -1,0 +1,3 @@
+<p class="alert alert-info">
+	Desde auqi podemos crear listar ,elminar y editar los productos....
+</p>
